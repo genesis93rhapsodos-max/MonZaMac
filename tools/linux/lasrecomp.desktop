@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=MonZaMac
+Comment=Pokémon Legends: Z-A, recompiled (bring your own game files)
+Exec=lasrecomp
+Icon=lasrecomp
+Categories=Game;
+Terminal=false
